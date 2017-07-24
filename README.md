@@ -1,2 +1,2 @@
 # transistor
-Tools for analyzing 311 lyrics.
+Tools for analyzing text.
